@@ -13,7 +13,7 @@
     <h3>Ways to earn income<h3>
       <ul>
         <li>Selling weed, vegetables we grow and chimkim eggs </li>
-        <li>Boat sex party</li>
+        <li>Boat party</li>
       </ul>
     <h3>Expenses<h3>
       <ul>
