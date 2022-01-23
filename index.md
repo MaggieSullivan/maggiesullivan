@@ -33,5 +33,8 @@ https://piped.kavin.rocks/watch?v=oSCSmI830yg" target="_blank"> Hydroponic veget
         </li>
       </ul>
     <h2>Skills</h2>
+      li {
+  color: green;
+}
       
 <!--For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).-->
